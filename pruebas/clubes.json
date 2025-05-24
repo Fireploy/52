@@ -1,0 +1,27 @@
+{
+    "clubs": [
+        {
+            "_id": "655d44953a936011e08a732a",
+            "name": "Los tigrryillos",
+            "description": "a",
+            "photo": null,
+            "members": [
+                "656e93b8ff930aaeed527db1"
+            ]
+        },
+        {
+            "_id": "656f7f866dc6749f9410e212",
+            "name": "ManFredyJhonson",
+            "description": "Guino-san",
+            "photo": null,
+            "members": []
+        },
+        {
+            "_id": "656f7f9c6dc6749f9410e219",
+            "name": "Equipo Norte",
+            "description": "Selección de norte de Santander",
+            "photo": null,
+            "members": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "weightCategory": [
+        {
+            "_id": "6568a59f0c3aa4aef06f6c1c",
+            "name": "Peso pesado",
+            "maxWeight": 200,
+            "minWeight": 90
+        },
+        {
+            "_id": "6568a5ba0c3aa4aef06f6c23",
+            "name": "Peso crucero",
+            "maxWeight": 89,
+            "minWeight": 79
+        },
+        {
+            "_id": "6568a64b0c3aa4aef06f6c37",
+            "name": "Peso mínimo",
+            "maxWeight": 47,
+            "minWeight": 0
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+.form{
+    color: white;
+    width:fit-content;
+    padding: 2rem;
+    min-width: 450px;
+
+    .descriptionContainer{
+        text-align: center;
+
+        h2{
+            font-weight: 700;
+            font-size: 60px;
+            text-shadow: 3px 2px 0px #cd1919;
+            margin-bottom: -20px;
+        }
+
+        p{
+            font-weight: 400;
+            font-size: 16px;
+        }
+    }
+}

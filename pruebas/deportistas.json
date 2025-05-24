@@ -1,0 +1,188 @@
+{
+    "users": [
+        {
+            "_id": "655d46df65bcaf9ecad554c8",
+            "name": "Nuevo nombre",
+            "lastName": "Nuevo apellido",
+            "birthDate": "2002-12-27T05:00:00.000Z",
+            "cedula": "1241521512",
+            "email": "kevin@gmail.com",
+            "weight": 30,
+            "phone": "1234",
+            "address": "prueba",
+            "role": "Deportista",
+            "club": null,
+            "weightCategory": "655d477c65bcaf9ecad554f2",
+            "physicalTest": [
+                {
+                    "_id": "655df87521461c01d94b1506",
+                    "test": []
+                },
+                {
+                    "_id": "655df8cb2553785993b6865c",
+                    "test": []
+                },
+                {
+                    "_id": "655df8ef3f9bf42434c1d208",
+                    "test": []
+                },
+                {
+                    "_id": "655df9137fcc6d6e971bbbd7",
+                    "test": []
+                },
+                {
+                    "_id": "655df989d1b32a9251322bfc",
+                    "test": []
+                },
+                {
+                    "_id": "655df9dedcadb87a755d5412",
+                    "test": []
+                },
+                {
+                    "_id": "655dfa07aa3ac9f132ea6a45",
+                    "test": []
+                },
+                {
+                    "_id": "655dfa4598a960a7411612f9",
+                    "test": []
+                },
+                {
+                    "_id": "655dfad5f5e48572c6649ac1",
+                    "test": []
+                },
+                {
+                    "_id": "655dfc930171949430708f13",
+                    "test": []
+                },
+                {
+                    "date": "2003-12-27T05:00:00.000Z",
+                    "test": [
+                        {
+                            "name": "sentadillas",
+                            "_id": "655dfcf41a6f7098d54df292"
+                        }
+                    ],
+                    "_id": "655dfcf41a6f7098d54df291"
+                },
+                {
+                    "date": "2003-12-27T05:00:00.000Z",
+                    "test": [
+                        {
+                            "name": "sentadillas",
+                            "repeats": 5,
+                            "_id": "655dfec697881580a04f3282"
+                        }
+                    ],
+                    "_id": "655dfec697881580a04f3281"
+                },
+                {
+                    "date": "2003-12-27T05:00:00.000Z",
+                    "test": [
+                        {
+                            "name": "sentadillas",
+                            "repeats": 5,
+                            "_id": "655dff375c0c264103dfee08"
+                        }
+                    ],
+                    "_id": "655dff375c0c264103dfee07"
+                },
+                {
+                    "date": "2003-12-27T05:00:00.000Z",
+                    "test": [
+                        {
+                            "name": "sentadillas",
+                            "repeats": 5,
+                            "_id": "655dff9e436282737d90d33d"
+                        }
+                    ]
+                }
+            ],
+            "ranking": {
+                "win": 0,
+                "lose": 0,
+                "draw": 0
+            }
+        },
+        {
+            "_id": "655e313fd21886efd010c801",
+            "name": "kevin",
+            "lastName": "tarazona",
+            "birthDate": "2002-12-27T05:00:00.000Z",
+            "cedula": "12415215122",
+            "email": "kevi2n@gmail.com",
+            "weight": 23,
+            "phone": "123",
+            "address": "prueba",
+            "role": "Deportista",
+            "club": null,
+            "weightCategory": null,
+            "physicalTest": [],
+            "ranking": {
+                "win": 0,
+                "lose": 0,
+                "draw": 0
+            }
+        },
+        {
+            "_id": "655e319b369e23c6bc83e353",
+            "name": "kevin",
+            "lastName": "tarazona",
+            "birthDate": "2002-12-27T05:00:00.000Z",
+            "cedula": "124152151122",
+            "email": "kevi12n@gmail.com",
+            "weight": 23,
+            "phone": "123",
+            "address": "prueba",
+            "role": "Deportista",
+            "club": null,
+            "weightCategory": null,
+            "physicalTest": [],
+            "ranking": {
+                "win": 0,
+                "lose": 0,
+                "draw": 0
+            }
+        },
+        {
+            "_id": "655e31eaa55de2334d2f5f4f",
+            "name": "kevin",
+            "lastName": "tarazona",
+            "birthDate": "2002-12-27T05:00:00.000Z",
+            "cedula": "1241521151122",
+            "email": "kevi112n@gmail.com",
+            "weight": 23,
+            "phone": "123",
+            "address": "prueba",
+            "role": "Deportista",
+            "club": null,
+            "weightCategory": null,
+            "physicalTest": [],
+            "ranking": {
+                "win": 0,
+                "lose": 0,
+                "draw": 0
+            }
+        },
+        {
+            "_id": "655e32593962afbcbe620741",
+            "name": "kevin",
+            "lastName": "tarazona",
+            "birthDate": "2002-12-27T05:00:00.000Z",
+            "cedula": "12415211151122",
+            "email": "kevi1112n@gmail.com",
+            "weight": 23,
+            "phone": "123",
+            "address": "prueba",
+            "role": "Deportista",
+            "club": null,
+            "weightCategory": null,
+            "ranking": {
+                "win": 0,
+                "lose": 0,
+                "draw": 0,
+                "_id": "655e32593962afbcbe620742"
+            },
+            "physicalTest": []
+        }
+    ]
+}

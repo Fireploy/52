@@ -1,0 +1,35 @@
+/* Estilo personalizado para los números de página */
+.page-link {
+    background-color: #cd1919; /* Cambia el color de fondo según tus preferencias */
+    color: white; /* Color de texto blanco */
+    padding: 0.5rem 0.8rem; /* Ajusta el espaciado interno según tus preferencias */
+    margin: 0.2rem; /* Ajusta el margen según tus preferencias */
+    border-radius: 5px; /* Ajusta el radio de las esquinas según tus preferencias */
+  }
+  
+  /* Alinea los elementos de paginación horizontalmente */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem; /* Ajusta el margen superior según tus preferencias */
+  }
+  
+  /* Estilo para los botones de Anterior y Siguiente */
+  .pagination button {
+    background-color: #cd1919;
+    color: white;
+    padding: 0.5rem 0.8rem;
+    margin: 0.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Estilo para el botón activo (número de página actual) */
+  .pagination .active {
+    background-color: #cd1919;
+    padding: 0.6rem 0.7rem;
+    margin: 0.1rem;
+    border-radius: 5px;
+  }
+  

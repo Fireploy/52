@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@600;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Bebas+Neue&family=Exo+2:wght@100&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  min-height: 100vh;
+  background-color: #1e1e1e;
+  color: white;
+  font-family: "Kanit", sans-serif;
+  /* font-family: "Hammersmith One", sans-serif; */
+  outline: name;
+  padding: 0;
+  margin: 0;
+}
+
+#titulos-grandes{
+  font-family: 'Bebas Neue', sans-serif;
+}
+#titulos-pequenos{
+  font-family: 'Exo 2', sans-serif;
+}
+#texto-general{
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: bold;
+}
+
+.fc-button.fc-button-primary {
+  background-color: #cd1919 !important;
+  border-color: #a20c0c;
+  transition: background-color 0.3s ease; 
+}
+
+.fc-button.fc-button-primary:hover {
+  background-color: #a20c0c !important; 
+}
+
+.fc-daygrid-day.fc-day-today .fc-daygrid-day-frame {
+  background-color: rgba(255, 24, 24, 0.507);
+}

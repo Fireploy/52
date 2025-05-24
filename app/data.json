@@ -1,0 +1,9 @@
+{
+    "nombre": "Prueba nombre",
+    "apellido": "Prueba apellido",
+    "cedula": "12345678",
+    "direccion": "calle 34 #2-35",
+    "telefono": "12345678",
+    "correo": "prueba@hotmail.com",
+    "contraseña": "Contraseña123*"
+ }
